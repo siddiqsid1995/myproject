@@ -17,6 +17,18 @@ public class Sample {
 			System.out.println(charAt);
 		}
 
+		int a = 18;
+
+		if (20 >= a) {
+
+			System.out.println("Eligible to Vote");
+		} 
+		
+		else {
+
+			System.out.println("Not Eligible to Vote");
+		}
+
 	}
 
 }
